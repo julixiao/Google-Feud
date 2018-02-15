@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Google_Feud_GUI()
+comment1.params=round1\ guess1\ totalScore1\ thisRound1
+comment1.target=void\ updateScore(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ loadX()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=ctg
+comment4.target=void\ question(int)
+comment5.params=index
+comment5.target=void\ showAns(int)
+comment6.params=
+comment6.target=void\ showAll()
+comment7.params=
+comment7.target=void\ cleanup()
+comment8.params=
+comment8.target=void\ initializeTable()
+comment9.params=low\ high
+comment9.target=int\ getRandom(int,\ int)
+numComments=10
